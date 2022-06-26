@@ -2,11 +2,8 @@
   font-size:calc(16px + 1.5vw);
 }
 
-label.left,
 input,
 input.textbox,
-input.text,
-textarea.text,
-select.select {
+input.text {
   font-size: 16px, 100%;
 }
