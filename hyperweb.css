@@ -1,5 +1,5 @@
 .talk-comment {
-  font-size: 16px;
+  font-size:calc(18px + 1.5vw);
 }
 
 form,
@@ -8,18 +8,18 @@ input.hidden,
 input.textbox,
 input.text
 input.textarea {
-  font-size: 16px;
+  font-size: calc(18px + 1.5vw);
   max-width: 926px;
 }
 
 textarea,
 textarea.text
 textarea.textbox{
-  font-size: 16px;
+  font-size:calc(18px + 1.5vw);
   max-width: 926px;
 }
 
 .body {
-  font-size: 16px;
+  font-size:calc(18px + 1.5vw);
   max-width: 926px;
 }
