@@ -13,14 +13,17 @@ input.text
 input.textarea {
   font-size:calc(16px + 1.5vw);
   max-width: 428px;
+  position: fixed;
 }
 textarea,
 textarea.text
 textarea.textbox{
   font-size:calc(16px + 1.5vw);
   max-width: 428px;
+  position: fixed;
 }
 .body {
   font-size:calc(16px + 1.5vw);
   max-width: 428px;
+  position: fixed;
 }
