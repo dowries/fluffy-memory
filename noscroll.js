@@ -1,10 +1,1 @@
-      const fs = document.getElementById("fullscreen");
-      const input = document.getElementById("input");
-
-      input.onfocus = () => {
-        fs.classList.add("keyboard");
-      };
-
-      input.onblur = () => {
-        fs.classList.remove("keyboard");
-      };
+document.getElementById('text').onkeydown = new function(event){return false}
