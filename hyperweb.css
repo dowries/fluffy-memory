@@ -4,6 +4,7 @@
 
 input,
 input.textbox,
-input.text {
+input.text,
+textarea.textbox {
   font-size: 16px, 100%;
 }
