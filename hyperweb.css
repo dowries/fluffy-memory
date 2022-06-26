@@ -1,7 +1,7 @@
 .talk-comment {
   font-size:calc(16px + 1.5vw);
 }
-qrform,
+input.detail,
 label.left,
 input,
 input.text,
