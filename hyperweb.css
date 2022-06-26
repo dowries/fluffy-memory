@@ -3,6 +3,7 @@
 }
 
 input,
+input.hidden,
 input.textbox,
 input.text
 input.textarea {
