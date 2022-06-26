@@ -4,8 +4,17 @@
 
 input,
 input.textbox,
-input.text,
+input.text
+input.textarea {
+  font-size:calc(16px + 1.5vw);
+}
+
 textarea,
-textarea.text {
+textarea.text
+textarea.textbox{
+  font-size:calc(16px + 1.5vw);
+}
+
+.body {
   font-size:calc(16px + 1.5vw);
 }
