@@ -1,32 +1,26 @@
+#IJ-sitepage #Comments {
+  font-size:calc(16px + 1.5vw);
+}
+
 .talk-comment {
   font-size:calc(16px + 1.5vw);
 }
+
 input,
 input.hidden,
 input.textbox,
 input.text
 input.textarea {
   font-size:calc(16px + 1.5vw);
-  max-width: 480px;
+  max-width: 428px;
 }
 textarea,
 textarea.text
 textarea.textbox{
   font-size:calc(16px + 1.5vw);
-  max-width: 480px;
+  max-width: 428px;
 }
 .body {
   font-size:calc(16px + 1.5vw);
-  max-width: 480px;
-}
-html {
-    margin: 0;
-    overflow: hidden;
-    height: 100%
-}
-body {
-    margin: 0;
-    overflow: auto;
-    height: 100%;
-    -webkit-overflow-scrolling: touch;
+  max-width: 428px;
 }
