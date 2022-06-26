@@ -1,15 +1,3 @@
-#IJ-sitepage #Comments {
-  font-size:calc(16px + 1.5vw);
-}
-
-.talk-comment {
-  font-size:calc(16px + 1.5vw);
-}
-
-form {
-  position: fixed;
-}
-
 input,
 input.hidden,
 input.textbox,
