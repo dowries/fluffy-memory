@@ -3,15 +3,15 @@ input.hidden,
 input.textbox,
 input.text
 input.textarea {
-  font-size:calc(16px + 1.5vw);
+  font-size:calc(16px + 1.8vw);
   max-width: 428px;
 }
 textarea,
 textarea.text
 textarea.textbox{
-  font-size:calc(16px + 1.5vw);
+  font-size:calc(16px + 1.8vw);
   max-width: 428px;
 }
 .body {
-  font-size:calc(16px + 1.5vw);
+  font-size:calc(16px + 1.8vw);
   max-width: 428px;
