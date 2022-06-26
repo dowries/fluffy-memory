@@ -1,0 +1,4 @@
+body {
+  width: clamp(45ch, 50%, 75ch);
+  font-size: min(16px);
+}
