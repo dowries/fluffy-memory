@@ -2,6 +2,7 @@
   font-size:calc(16px + 1.5vw), 100%;
 }
 
+form,
 input,
 input.hidden,
 input.textbox,
