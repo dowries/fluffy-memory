@@ -1,6 +1,7 @@
 .talk-comment {
   font-size:calc(16px + 1.5vw);
 }
-form {
-  font-size:calc(16px + 1.5vw);
+input {
+  width: 160px;
+  font-size: 16px;
 }
