@@ -1,22 +1,32 @@
 .talk-comment {
-  font-size:calc(16px + 1.5vw), 100%;
+  font-size:calc(16px + 1.5vw);
 }
-
 input,
 input.hidden,
 input.textbox,
 input.text
 input.textarea {
-  font-size:calc(16px + 1.5vw), 100%;
-  max-width: 926px;
+  font-size:calc(16px + 1.5vw);
+  max-width: 480px;
 }
 textarea,
 textarea.text
 textarea.textbox{
-  font-size:calc(16px + 1.5vw), 100%;
-  max-width: 926px;
+  font-size:calc(16px + 1.5vw);
+  max-width: 480px;
 }
 .body {
-  font-size:calc(16px + 1.5vw), 100%;
-  max-width: 926px;
+  font-size:calc(16px + 1.5vw);
+  max-width: 480px;
+}
+html {
+    margin: 0;
+    overflow: hidden;
+    height: 100%
+}
+body {
+    margin: 0;
+    overflow: auto;
+    height: 100%;
+    -webkit-overflow-scrolling: touch;
 }
