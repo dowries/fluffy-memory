@@ -4,14 +4,14 @@ input.textbox,
 input.text
 input.textarea {
   font-size:calc(18px + 1.8vw);
-  max-width: 428px;
+  max-width: 400px;
 }
 textarea,
 textarea.text
 textarea.textbox{
   font-size:calc(18px + 1.8vw);
-  max-width: 428px;
+  max-width: 400px;
 }
 .body {
   font-size:calc(18px + 1.8vw);
-  max-width: 428px;
+  max-width: 400px;
