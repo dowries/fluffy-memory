@@ -22,3 +22,14 @@ textarea.textbox{
   font-size:calc(16px + 1.5vw);
   max-width: 480px;
 }
+html {
+    margin: 0;
+    overflow: hidden;
+    height: 100%
+}
+body {
+    margin: 0;
+    overflow: auto;
+    height: 100%;
+    -webkit-overflow-scrolling: touch;
+}
